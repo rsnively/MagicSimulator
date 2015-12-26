@@ -40,7 +40,7 @@ public class CardView extends JPanel {
         super.paint(g);
         Graphics2D g2 = (Graphics2D) g;
 
-        // TODO: Card View of variable size
+        // TODO: Card View of variable size (get actual dimensions)
         PaintBorder(g2);
         PaintBackground(g2);
         PaintTopPanel(g2);
@@ -73,16 +73,17 @@ public class CardView extends JPanel {
 
     private void PaintCardName(Graphics2D g) {
         g.setColor(Color.black);
-        g.drawString(card.GetName(), (float) 0.8 * borderThickness, (float) 1.4 * borderThickness);
+        g.drawString(card.GetName(), (float) 1.4 * borderThickness, (float) 1.4 * borderThickness);
     }
 
     private void PaintManaCost(Graphics2D g) {
-        // TODO
+        Image image = new ImageIcon("res/mana/White.png").getImage();
+        g.drawImage(image, getWidth() - 12 - borderThickness, borderThickness, 12, 12, null);
     }
 
     private void PaintImage(Graphics2D g) {
-        ImageIcon ii = new ImageIcon("res/card/EliteVanguard.jpg");
-        g.drawImage(ii.getImage(), 20, 20, null);
+        Image image = new ImageIcon("res/card/EliteVanguard.jpg").getImage();
+        g.drawImage(image, (getWidth() - image.getWidth(null)) / 2 , 20, null);
     }
 
     private void PaintMiddlePanel(Graphics2D g) {
