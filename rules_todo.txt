@@ -1,179 +1,8 @@
-Magic: The Gathering Comprehensive Rules
 
-These rules are effective as of January 16, 2016.
-
-Introduction
-
-This document is designed for people who’ve moved beyond the basics of the Magic: The Gathering® game. If you’re a beginning Magic™ player, you’ll probably find these rules intimidating. They’re intended to be the ultimate authority for the game, and you won’t usually need to refer to them except in specific cases or during competitive games.
-
-For casual play and most ordinary situations, you’ll find what you need in the Magic: The Gathering basic rules. You can download a copy of the basic rules PDF from the Wizards of the Coast® Magic rules website at Magic.Wizards.com/Rules. If you’re sure this is where you want to be, keep reading.
-
-This document includes a series of numbered rules followed by a glossary. Many of the numbered rules are divided into subrules, and each separate rule and subrule of the game has its own number. (Note that subrules skip the letters “l” and “o” due to potential confusion with the numbers “1” and “0”; subrule 704.5k is followed by 704.5m, then 704.5n, then 704.5p, for example.)
-
-We at Wizards of the Coast recognize that no matter how detailed the rules, situations will arise in which the interaction of specific cards requires a precise answer. If you have questions, you can get the answers from us at Wizards.com/CustomerService. Additional contact information is on the last page of these rules.
-
-In response to play issues and to keep these rules as current as possible, changes may have been made to this document since its publication. You can download the most recent version from the Magic rules website at Magic.Wizards.com/Rules.
-
-
-Contents
-
-1. Game Concepts
-100. General
-101. The Magic Golden Rules
-102. Players
-103. Starting the Game
-104. Ending the Game
-105. Colors
-106. Mana
-107. Numbers and Symbols
-108. Cards
-109. Objects
-110. Permanents
-111. Spells
-112. Abilities
-113. Emblems
-114. Targets
-115. Special Actions
-116. Timing and Priority
-117. Costs
-118. Life
-119. Damage
-120. Drawing a Card
-121. Counters
-
-2. Parts of a Card
-200. General
-201. Name
-202. Mana Cost and Color
-203. Illustration
-204. Color Indicator
-205. Type Line
-206. Expansion Symbol
-207. Text Box
-208. Power/Toughness
-209. Loyalty
-210. Hand Modifier
-211. Life Modifier
-212. Information Below the Text Box
-
-3. Card Types
-300. General
-301. Artifacts
-302. Creatures
-303. Enchantments
-304. Instants
-305. Lands
-306. Planeswalkers
-307. Sorceries
-308. Tribals
-309. Planes
-310. Phenomena
-311. Vanguards
-312. Schemes
-313. Conspiracies
-
-4. Zones
-400. General
-401. Library
-402. Hand
-403. Battlefield
-404. Graveyard
-405. Stack
-406. Exile
-407. Ante
-408. Command
-
-5. Turn Structure
-500. General
-501. Beginning Phase
-502. Untap Step
-503. Upkeep Step
-504. Draw Step
-505. Main Phase
-506. Combat Phase
-507. Beginning of Combat Step
-508. Declare Attackers Step
-509. Declare Blockers Step
-510. Combat Damage Step
-511. End of Combat Step
-512. Ending Phase
-513. End Step
-514. Cleanup Step
-
-6. Spells, Abilities, and Effects
-600. General
-601. Casting Spells
-602. Activating Activated Abilities
-603. Handling Triggered Abilities
-604. Handling Static Abilities
-605. Mana Abilities
-606. Loyalty Abilities
-607. Linked Abilities
-608. Resolving Spells and Abilities
-609. Effects
-610. One-Shot Effects
-611. Continuous Effects
-612. Text-Changing Effects
-613. Interaction of Continuous Effects
-614. Replacement Effects
-615. Prevention Effects
-616. Interaction of Replacement and/or Prevention Effects
-
-7. Additional Rules
-700. General
-701. Keyword Actions
-702. Keyword Abilities
-703. Turn-Based Actions
-704. State-Based Actions
-705. Flipping a Coin
-706. Copying Objects
-707. Face-Down Spells and Permanents
-708. Split Cards
-709. Flip Cards
-710. Leveler Cards
-711. Double-Faced Cards
-712. Controlling Another Player
-713. Ending the Turn
-714. Restarting the Game
-715. Subgames
-716. Taking Shortcuts
-717. Handling Illegal Actions
-
-8. Multiplayer Rules
-800. General
-801. Limited Range of Influence Option
-802. Attack Multiple Players Option
-803. Attack Left and Attack Right Options
-804. Deploy Creatures Option
-805. Shared Team Turns Option
-806. Free-for-All Variant
-807. Grand Melee Variant
-808. Team vs. Team Variant
-809. Emperor Variant
-810. Two-Headed Giant Variant
-811. Alternating Teams Variant
-
-9. Casual Variants
-900. General
-901. Planechase
-902. Vanguard
-903. Commander
-904. Archenemy
-905. Conspiracy Draft
-
-Glossary
-
-Credits
 
 1. Game Concepts
 
 100. General
-
-100.1. These Magic rules apply to any Magic game with two or more players, including two-player games and multiplayer games.
-
-100.1a A two-player game is a game that begins with only two players.
-
-100.1b A multiplayer game is a game that begins with more than two players. See section 8, “Multiplayer Rules.”
 
 100.2. To play, each player needs his or her own deck of traditional Magic cards, small items to represent any tokens and counters, and some way to clearly track life totals.
 
@@ -181,25 +10,13 @@ Credits
 
 100.2b In limited play (a way of playing in which each player gets the same quantity of unopened Magic product such as booster packs and creates his or her own deck using only this product and basic land cards), each deck must contain at least forty cards. A limited deck may contain as many duplicates of a card as are included with the product.
 
-100.3. Some casual variants require additional items, such as specially designated cards, nontraditional Magic cards, and dice. See section 9, “Casual Variants.”
-
 100.4. Each player may also have a sideboard, which is a group of additional cards the player may use to modify his or her deck between games of a match.
 
 100.4a In constructed play, a sideboard may contain no more than fifteen cards. The four-card limit (see rule 100.2a) applies to the combined deck and sideboard.
 
 100.4b In limited play involving individual players, all cards in a player’s card pool not included in his or her deck are in that player’s sideboard.
 
-100.4c In limited play involving the Two-Headed Giant multiplayer variant, all cards in a team’s card pool but not in either player’s deck are in that team’s sideboard.
-
-100.4d In limited play involving other multiplayer team variants, each card in a team’s card pool but not in any player’s deck is assigned to the sideboard of one of those players. Each player has his or her own sideboard; cards may not be transferred between players.
-
 100.5. There is no maximum deck size.
-
-100.6. Most Magic tournaments (organized play activities where players compete against other players to win prizes) have additional rules covered in the Magic: The Gathering Tournament Rules (found at WPN.Wizards.com/en/resources/rules-documents). These rules may limit the use of some cards, including barring all cards from some older sets.
-
-100.6a Tournaments usually consist of a series of matches. A two-player match usually involves playing until one player has won two games. A multiplayer match usually consists of only one game.
-
-100.6b Players can use the Magic Store & Event Locator at Wizards.com/Locator to find tournaments in their area.
 
 101. The Magic Golden Rules
 
@@ -229,45 +46,21 @@ Example: A card reads “Each player sacrifices a creature.” First, the active
 
 102.2. In a two-player game, a player’s opponent is the other player.
 
-102.3. In a multiplayer game between teams, a player’s teammates are the other players on his or her team, and the player’s opponents are all players not on his or her team.
-
 103. Starting the Game
 
 103.1. At the start of a game, each player shuffles his or her deck so that the cards are in a random order. Each player may then shuffle or cut his or her opponents’ decks. The players’ decks become their libraries.
 
 103.1a If a player is using a sideboard (see rule 100.4) or double-faced cards being represented by checklist cards (see rule 711.3), those cards are set aside before shuffling.
 
-103.1b In a Commander game, each player puts his or her commander from his or her deck face up into the command zone before shuffling. See rule 903.6.
-
-103.1c In a Conspiracy Draft game, each player puts any number of conspiracy cards from his or her sideboard into the command zone before shuffling. See rule 905.4.
-
 103.2. After the decks have been shuffled, the players determine which one of them will choose who takes the first turn. In the first game of a match (including a single-game match), the players may use any mutually agreeable method (flipping a coin, rolling dice, etc.) to do so. In a match of several games, the loser of the previous game chooses who takes the first turn. If the previous game was a draw, the player who made the choice in that game makes the choice in this game. The player chosen to take the first turn is the starting player. The game’s default turn order begins with the starting player and proceeds clockwise.
-
-103.2a In a game using the shared team turns option, there is a starting team rather than a starting player.
-
-103.2b In an Archenemy game, these methods aren’t used to determine who takes the first turn. Rather, the archenemy takes the first turn.
 
 103.2c One card, Power Play, states that its controller is the starting player. This effect supersedes these methods.
 
 103.3. Each player begins the game with a starting life total of 20. Some variant games have different starting life totals.
 
-103.3a In a Two-Headed Giant game, each team’s starting life total is 30.
-
-103.3b In a Vanguard game, each player’s starting life total is 20 plus or minus the life modifier of his or her vanguard card.
-
-103.3c In a Commander game, each player’s starting life total is 40.
-
-103.3d In an Archenemy game, the archenemy’s starting life total is 40.
-
 103.4. Each player draws a number of cards equal to his or her starting hand size, which is normally seven. (Some effects can modify a player’s starting hand size.) A player who is dissatisfied with his or her initial hand may take a mulligan. First, the starting player declares whether or not he or she will take a mulligan. Then each other player in turn order does the same. Once each player has made a declaration, all players who decided to take mulligans do so at the same time. To take a mulligan, a player shuffles his or her hand back into his or her library, then draws a new hand of one fewer cards than he or she had before. If a player kept his or her hand of cards, those cards become the player’s opening hand, and that player may not take any further mulligans. This process is then repeated until no player takes a mulligan. (Note that if a player’s hand size reaches zero cards, that player must keep that hand.) After all players have kept an opening hand, each player in turn order whose hand contains fewer cards than that player’s starting hand size may look at the top card of his or her library. If a player does, that player may put that card on the bottom of his or her library.
 
-103.4a In a Vanguard game, each player’s starting hand size is seven plus or minus the hand modifier of his or her vanguard card.
-
 103.4b If an effect allows a player to perform an action “any time [that player] could mulligan,” the player may perform that action at a time he or she would declare whether or not he or she will take a mulligan. This need not be in the first round of mulligans. Other players may have already made their mulligan declarations by the time the player has the option to perform this action. If the player performs the action, he or she then declares whether or not he or she will take a mulligan.
-
-103.4c In a multiplayer game, the first time a player takes a mulligan, he or she draws a new hand of as many cards as he or she had before. Subsequent hands decrease by one card as normal.
-
-103.4d In a multiplayer game using the shared team turns option, first each player on the starting team declares whether or not he or she will take a mulligan, then the players on each other team in turn order do the same. Teammates may consult while making their decisions. Then all mulligans are taken at the same time. A player may take a mulligan even after his or her teammate has decided to keep his or her opening hand.
 
 103.5. Some cards allow a player to take actions with them from his or her opening hand. Once the mulligan process (see rule 103.4) is complete, the starting player may take any such actions in any order. Then each other player in turn order may do the same.
 
@@ -275,17 +68,9 @@ Example: A card reads “Each player sacrifices a creature.” First, the active
 
 103.5b If a card allows a player to reveal it from his or her opening hand, the player taking this action does so. The card remains revealed until the first turn begins. Each card may be revealed this way only once.
 
-103.5c In a multiplayer game using the shared team turns option, first each player on the starting team, in whatever order that team likes, may take such actions. Teammates may consult while making their decisions. Then each player on each other team in turn order does the same.
-
-103.6. In a Planechase game, the starting player moves the top card of his or her planar deck off that planar deck and turns it face up. If it’s a plane card, that card is the starting plane. If it’s a phenomenon card, the player puts that card on the bottom of his or her planar deck and repeats this process until a plane card is turned face up. (See rule 901, “Planechase.”)
-
 103.7. The starting player takes his or her first turn.
 
 103.7a In a two-player game, the player who plays first skips the draw step (see rule 504, “Draw Step”) of his or her first turn.
-
-103.7b In a Two-Headed Giant game, the team who plays first skips the draw step of their first turn.
-
-103.7c In all other multiplayer games, no player skips the draw step of his or her first turn.
 
 104. Ending the Game
 
@@ -296,10 +81,6 @@ Example: A card reads “Each player sacrifices a creature.” First, the active
 104.2a A player still in the game wins the game if all of that player’s opponents have left the game. This happens immediately and overrides all effects that would prevent that player from winning the game.
 
 104.2b An effect may state that a player wins the game. (In multiplayer games, this may not cause the game to end; see rule 104.3h.)
-
-104.2c In a multiplayer game between teams, a team with at least one player still in the game wins the game if all other teams have left the game. Each player on the winning team wins the game, even if one or more of those players had previously lost that game.
-
-104.2d In an Emperor game, a team wins the game if its emperor wins the game. (See rule 809.5.)
 
 104.3. There are several ways to lose the game.
 
@@ -315,16 +96,6 @@ Example: A card reads “Each player sacrifices a creature.” First, the active
 
 104.3f If a player would both win and lose the game simultaneously, he or she loses the game.
 
-104.3g In a multiplayer game between teams, a team loses the game if all players on that team have lost the game.
-
-104.3h In a multiplayer game, an effect that states that a player wins the game instead causes all of that player’s opponents to lose the game. (This may not cause the game to end if the limited range of influence option is being used; see rule 801.)
-
-104.3i In an Emperor game, a team loses the game if its emperor loses the game. (See rule 809.5.)
-
-104.3j In a Commander game, a player that’s been dealt 21 or more combat damage by the same commander over the course of the game loses the game. (This is a state-based action. See rule 704. See also rule 903.11.)
-
-104.3k In a tournament, a player may lose the game as a result of a penalty given by a judge. See rule 100.6.
-
 104.4. There are several ways for the game to be a draw.
 
 104.4a If all the players remaining in a game lose simultaneously, the game is a draw.
@@ -332,18 +103,6 @@ Example: A card reads “Each player sacrifices a creature.” First, the active
 104.4b If a game that’s not using the limited range of influence option (including a two-player game) somehow enters a “loop” of mandatory actions, repeating a sequence of events with no way to stop, the game is a draw. Loops that contain an optional action don’t result in a draw.
 
 104.4c An effect may state that the game is a draw.
-
-104.4d In a multiplayer game between teams, the game is a draw if all remaining teams lose simultaneously.
-
-104.4e In a multiplayer game using the limited range of influence option, the effect of a spell or ability that states that the game is a draw causes the game to be a draw for that spell or ability’s controller and all players within his or her range of influence. Only those players leave the game; the game continues for all other players.
-
-104.4f In a multiplayer game using the limited range of influence option, if the game somehow enters a “loop” of mandatory actions, repeating a sequence of events with no way to stop, the game is a draw for each player who controls an object that’s involved in that loop, as well as for each player within the range of influence of any of those players. Only those players leave the game; the game continues for all other players.
-
-104.4g In a multiplayer game between teams, the game is a draw for a team if the game is a draw for all remaining players on that team.
-
-104.4h In the Emperor variant, the game is a draw for a team if the game is a draw for its emperor. (See rule 809.5.)
-
-104.4i In a tournament, all players in the game may agree to an intentional draw. See rule 100.6.
 
 104.5. If a player loses the game, he or she leaves the game. If the game is a draw for a player, he or she leaves the game. The multiplayer rules handle what happens when a player leaves the game; see rule 800.4.
 
@@ -474,10 +233,6 @@ Example: {W/P}{W/P} can be paid by spending {W}{W}, by spending {W} and paying 2
 
 107.10. A type icon appears in the upper left corner of each card from the Future Sight® set printed with an alternate “timeshifted” frame. If the card has a single card type, this icon indicates what it is: claw marks for creature, a flame for sorcery, a lightning bolt for instant, a sunrise for enchantment, a chalice for artifact, and a pair of mountain peaks for land. If the card has multiple card types, that’s indicated by a black and white cross. This icon has no effect on game play.
 
-107.11. The Planeswalker symbol is {PW}. It appears on one face of the planar die used in the Planechase casual variant. See rule 901, “Planechase.”
-
-107.12. The chaos symbol is {CHAOS}. It appears on one face of the planar die used in the Planechase casual variant, as well as in abilities that refer to the results of rolling the planar die. See rule 901, “Planechase.”
-
 107.13. A color indicator is a circular symbol that appears to the left of the type line on some cards. The color of the symbol defines the card’s color or colors. See rule 202, “Mana Cost and Color.”
 
 108. Cards
@@ -489,8 +244,6 @@ Example: {W/P}{W/P} can be paid by spending {W}{W}, by spending {W} and paying 2
 108.2a In the text of spells or abilities, the term “card” is usually used to refer to a card that’s not on the battlefield or on the stack, such as a creature card in a player’s hand. The term “card” can also refer to a card in any zone that’s moving “from anywhere.” On rare occasions, the text of a spell or ability may refer to a nontoken permanent as a “card . . . on the battlefield.” For more information, see section 4, “Zones.”
 
 108.3. The owner of a card in the game is the player who started the game with it in his or her deck. If a card is brought into the game from outside the game rather than starting in a player’s deck, its owner is the player who brought it into the game. If a card starts the game in the command zone, its owner is the player who put it into the command zone to start the game. Legal ownership of a card in the game is irrelevant to the game rules except for the rules for ante. (See rule 407.)
-
-108.3a In a Planechase game using the single planar deck option, the planar controller is considered to be the owner of all cards in the planar deck. See rule 901.6.
 
 108.3b Some spells and abilities allow a player to take cards he or she owns from outside the game and bring them into the game. (See rule 400.10b.) If a card outside that game is involved in a Magic game, its owner is determined as described in rule 108.3. If a card outside that game is in the sideboard of a Magic game (see rule 100.4), its owner is considered to be the player who started the game with it in his or her sideboard. In all other cases, the owner of a card outside the game is its legal owner.
 
@@ -523,12 +276,6 @@ Example: {W/P}{W/P} can be paid by spending {W}{W}, by spending {W} and paying 2
 109.4a An emblem is controlled by the player that puts it into the command zone. See rule 113, “Emblems.”
 
 109.4b In a Planechase game, a face-up plane or phenomenon card is controlled by the player designated as the planar controller. This is usually the active player. See rule 901.6.
-
-109.4c In a Vanguard game, each vanguard card is controlled by its owner. See rule 902.6.
-
-109.4d In an Archenemy game, each scheme card is controlled by its owner. See rule 904.7.
-
-109.4e In a Conspiracy Draft game, each conspiracy card is controlled by its owner. See rule 905.5.
 
 109.5. The words “you” and “your” on an object refer to the object’s controller, its would-be controller (if a player is attempting to play, cast, or activate it), or its owner (if it has no controller). For a static ability, this is the current controller of the object it’s on. For an activated ability, this is the player who activated the ability. For a triggered ability, this is the controller of the object when the ability triggered, unless it’s a delayed triggered ability. To determine the controller of a delayed triggered ability, see rules 603.7d–f.
 
@@ -751,10 +498,6 @@ Example: Arc Trail is a sorcery that reads “Arc Trail deals 2 damage to target
 
 115.2e A player who has a card with suspend in his or her hand may exile that card. This is a special action. A player can take this action any time he or she has priority, but only if he or she could begin to cast that card by putting it onto the stack. See rule 702.61, “Suspend.”
 
-115.2f In a Planechase game, rolling the planar die is a special action. A player can take this action any time he or she has priority and the stack is empty during a main phase of his or her turn. Taking this action costs a player an amount of mana equal to the number of times he or she has previously taken this action on that turn. Note that this number won’t be equal to the number of times the player has rolled the planar die that turn if an effect has caused the player to roll the planar die that turn. See rule 901, “Planechase.”
-
-115.2g In a Conspiracy Draft game, turning a face-down conspiracy card in the command zone face up is a special action. A player can take this action any time he or she has priority. See rule 905.4a.
-
 115.3. If a player takes a special action, that player receives priority afterward.
 
 116. Timing and Priority
@@ -794,8 +537,6 @@ Example: Arc Trail is a sorcery that reads “Arc Trail deals 2 damage to target
 116.4. If all players pass in succession (that is, if all players pass without taking any actions in between passing), the spell or ability on top of the stack resolves or, if the stack is empty, the phase or step ends.
 
 116.5. Each time a player would get priority, the game first performs all applicable state-based actions as a single event (see rule 704, “State-Based Actions”), then repeats this process until no state-based actions are performed. Then triggered abilities are put on the stack (see rule 603, “Handling Triggered Abilities”). These steps repeat in order until no further state-based actions are performed and no abilities trigger. Then the player who would have received priority does so.
-
-116.6. In a multiplayer game using the shared team turns option, teams rather than individual players have priority. See rule 805, “Shared Team Turns Option.”
 
 116.7. If a player with priority casts a spell or activates an activated ability while another spell or ability is already on the stack, the new spell or ability has been cast or activated “in response to” the earlier spell or ability. The new spell or ability will resolve first. See rule 608, “Resolving Spells and Abilities.”
 
@@ -873,23 +614,13 @@ Example: Your opponent has cast Gather Specimens, a spell that says “If a crea
 
 118. Life
 
-118.1. Each player begins the game with a starting life total of 20. Some variant games have different starting life totals.
-
-118.1a In a Two-Headed Giant game, each team’s starting life total is 30. See rule 810, “Two-Headed Giant Variant.”
-
-118.1b In a Vanguard game, each player’s starting life total is 20 plus or minus the life modifier of his or her vanguard card. See rule 902, “Vanguard.”
-
-118.1c In a Commander game, each player’s starting life total is 40. See rule 903, “Commander.”
-
-118.1d In an Archenemy game, the archenemy’s starting life total is 40. See rule 904, “Archenemy.”
+118.1. Each player begins the game with a starting life total of 20.
 
 118.2. Damage dealt to a player normally causes that player to lose that much life. See rule 119.3.
 
 118.3. If an effect causes a player to gain life or lose life, that player’s life total is adjusted accordingly.
 
 118.4. If a cost or effect allows a player to pay an amount of life greater than 0, the player may do so only if his or her life total is greater than or equal to the amount of the payment. If a player pays life, the payment is subtracted from his or her life total; in other words, the player loses that much life. (Players can always pay 0 life.)
-
-118.4a If a cost or effect allows a player to pay an amount of life greater than 0 in a Two-Headed Giant game, the player may do so only if his or her team’s life total is greater than or equal to the total amount of life both team members are paying for that cost or effect. If a player pays life, the payment is subtracted from his or her team’s life total. (Players can always pay 0 life.)
 
 118.5. If an effect sets a player’s life total to a specific number, the player gains or loses the necessary amount of life to end up with the new total.
 
@@ -1393,91 +1124,6 @@ Example: “Basic Land — Mountain” means the card is a land with the subtype
 
 308.2. Tribal subtypes are always a single word and are listed after a long dash: “Tribal Enchantment — Merfolk.” The set of tribal subtypes is the same as the set of creature subtypes; these subtypes are called creature types. Tribals may have multiple subtypes. See rule 205.3m for the complete list of creature types.
 
-309. Planes
-
-309.1. Plane is a card type seen only on nontraditional Magic cards. Only the Planechase casual variant uses plane cards. See rule 901, “Planechase.”
-
-309.2. Plane cards remain in the command zone throughout the game, both while they’re part of a planar deck and while they’re face up. They’re not permanents. They can’t be cast. If a plane card would leave the command zone, it remains in the command zone.
-
-309.3. Plane subtypes are listed after a long dash, and may be multiple words: “Plane — Serra’s Realm.” All words after the dash are, collectively, a single subtype. Planar subtypes are called planar types. A plane can have only one subtype. See rule 205.3n for the complete list of planar types.
-
-309.4. A plane card may have any number of static, triggered, and/or activated abilities. As long as a plane card is face up in the command zone, its static abilities affect the game, its triggered abilities may trigger, and its activated abilities may be activated.
-
-309.5. The controller of a face-up plane card is the player designated as the planar controller. Normally, the planar controller is whoever the active player is. However, if the current planar controller would leave the game, instead the next player in turn order that wouldn’t leave the game becomes the planar controller, then the old planar controller leaves the game. The new planar controller retains that designation until he or she leaves the game or a different player becomes the active player, whichever comes first.
-
-309.6. A face-up plane card that’s turned face down becomes a new object.
-
-309.7. Each plane card has a triggered ability that triggers “Whenever you roll {CHAOS}.” These are called “chaos abilities.” Each one is indicated by a {CHAOS} to its left, though the symbol itself has no special rules meaning.
-
-310. Phenomena
-
-310.1. Phenomenon is a card type seen only on nontraditional Magic cards. Only the Planechase casual variant uses phenomenon cards. See rule 901, “Planechase.”
-
-310.2. Phenomenon cards remain in the command zone throughout the game, both while they’re part of a planar deck and while they’re face up. They’re not permanents. They can’t be cast. If a phenomenon card would leave the command zone, it remains in the command zone.
-
-310.3. Phenomenon cards have no subtypes.
-
-310.4. The controller of a face-up phenomenon card is the player designated as the planar controller. Normally, the planar controller is whoever the active player is. However, if the current planar controller would leave the game, instead the next player in turn order that wouldn’t leave the game becomes the planar controller, then the old planar controller leaves the game. The new planar controller retains that designation until he or she leaves the game or a different player becomes the active player, whichever comes first.
-
-310.5. Each phenomenon card has a triggered ability that triggers when you encounter it. “When you encounter [this phenomenon]” means “When you move this card off a planar deck and turn it face up.”
-
-310.6. A face-up phenomenon card that’s turned face down becomes a new object.
-
-310.7. If a phenomenon card is face up in the command zone, and it isn’t the source of a triggered ability that has triggered but not yet left the stack, the planar controller planeswalks the next time a player would receive priority. (This is a state-based action; see rule 704. See also rule 701.21, “Planeswalk.”)
-
-311. Vanguards
-
-311.1. Vanguard is a card type seen only on nontraditional Magic cards. Only the Vanguard casual variant uses vanguard cards. See rule 902, “Vanguard.”
-
-311.2. Vanguard cards remain in the command zone throughout the game. They’re not permanents. They can’t be cast. If a vanguard card would leave the command zone, it remains in the command zone.
-
-311.3. Vanguard cards have no subtypes.
-
-311.4. A vanguard card may have any number of static, triggered, and/or activated abilities. As long as a vanguard card is in the command zone, its static abilities affect the game, its triggered abilities may trigger, and its activated abilities may be activated.
-
-311.5. The owner of a vanguard card is the player who started the game with it in the command zone. The controller of a face-up vanguard card is its owner.
-
-311.6. Each vanguard card has a hand modifier printed in its lower left corner. This is a number preceded by a plus sign, a number preceded by a minus sign, or a zero. This modifier is applied to the starting hand size and maximum hand size of the vanguard card’s owner (normally seven). The resulting number is both how many cards that player draws at the beginning of the game and his or her maximum hand size.
-
-311.7. Each vanguard card has a life modifier printed in its lower right corner. This is a number preceded by a plus sign, a number preceded by a minus sign, or a zero. This modifier is applied as the starting life total of the vanguard card’s owner (normally 20) to is determined. See rule 103.3.
-
-312. Schemes
-
-312.1. Scheme is a card type seen only on nontraditional Magic cards. Only the Archenemy casual variant uses scheme cards. See rule 904, “Archenemy.”
-
-312.2. Scheme cards remain in the command zone throughout the game, both while they’re part of a scheme deck and while they’re face up. They’re not permanents. They can’t be cast. If a scheme card would leave the command zone, it remains in the command zone.
-
-312.3. Scheme cards have no subtypes.
-
-312.4. A scheme card may have any number of static, triggered, and/or activated abilities. As long as a scheme card is face up in the command zone, its static abilities affect the game, its triggered abilities may trigger, and its activated abilities may be activated.
-
-312.5. The owner of a scheme card is the player who started the game with it in the command zone. The controller of a face-up scheme card is its owner.
-
-312.6. If a non-ongoing scheme card is face up in the command zone, and it isn’t the source of a triggered ability that has triggered but not yet left the stack, that scheme card is turned face down and put on the bottom of its owner’s scheme deck the next time a player would receive priority. (This is a state-based action. See rule 704.)
-
-312.7. If an ability of a scheme card includes the text “this scheme,” it means the scheme card in the command zone that’s the source of that ability. This is an exception to rule 109.2.
-
-313. Conspiracies
-
-313.1. Conspiracy cards are used only in limited play, particularly in the Conspiracy Draft variant (see rule 905). Conspiracy cards aren’t used in constructed play.
-
-313.2. At the start of a game, before decks are shuffled, each player may put any number of conspiracy cards from his or her sideboard into the command zone. Conspiracy cards with hidden agenda are put into the command zone face down. (See rule 702.105, “Hidden Agenda.”)
-
-313.3. Conspiracy cards remain in the command zone throughout the game. They’re not permanents. They can’t be cast or included in a deck. If a conspiracy card would leave the command zone, it remains in the command zone. Conspiracy cards that aren’t in the game can’t be brought into the game.
-
-313.4. Conspiracy cards have no subtypes.
-
-313.5. Conspiracy cards may have any number of static or triggered abilities. As long as a conspiracy card is face up in the command zone, its static abilities affect the game, and its triggered abilities may trigger.
-
-313.5a Abilities of conspiracy cards may affect the start-of-game procedure.
-
-313.5b Face-down conspiracy cards have no characteristics.
-
-313.6. The owner of a conspiracy card is the player who put it into the command zone at the start of the game. The controller of a conspiracy card is its owner.
-
-313.7. At any time, you may look at a face-down conspiracy card you control. You can’t look at face-down conspiracy cards controlled by other players.
-
-
 4. Zones
 
 400. General
@@ -1491,8 +1137,6 @@ Example: “Basic Land — Mountain” means the card is a land with the subtype
 400.4. Cards with certain card types can’t enter certain zones.
 
 400.4a If an instant or sorcery card would enter the battlefield, it remains in its previous zone.
-
-400.4b If a conspiracy, phenomenon, plane, scheme, or vanguard card would leave the command zone, it remains in the command zone.
 
 400.5. The order of objects in a library, in a graveyard, or on the stack can’t be changed except when effects or rules allow it. The same is true for objects arranged in face-down piles in other zones. Other objects in other zones can be arranged however their owners wish, although who controls those objects, whether they’re tapped or flipped, and what other objects are attached to them must remain clear to all players.
 
@@ -1622,15 +1266,6 @@ Example: “Basic Land — Mountain” means the card is a land with the subtype
 
 406.8. Previously, the exile zone was called the “removed-from-the-game zone.” Cards that were printed with text that “removes [an object] from the game” exiles that object. The same is true for cards printed with text that “sets [an object] aside.” Cards that were printed with that text have received errata in the Oracle card reference.
 
-407. Ante
-
-407.1. Earlier versions of the Magic rules included an ante rule as a way of playing “for keeps.” Playing Magic games for ante is now considered an optional variation on the game, and it’s allowed only where it’s not forbidden by law or by other rules. Playing for ante is strictly forbidden under the Magic: The Gathering Tournament Rules (WPN.Wizards.com/en/resources/rules-documents).
-
-407.2. When playing for ante, each player puts one random card from his or her deck into the ante zone after determining which player goes first but before players draw any cards. Cards in the ante zone may be examined by any player at any time. At the end of the game, the winner becomes the owner of all the cards in the ante zone.
-
-407.3. A few cards have the text “Remove [this card] from your deck before playing if you’re not playing for ante.” These are the only cards that can add or remove cards from the ante zone or change a card’s owner.
-
-407.4. To ante an object is to put that object into the ante zone from whichever zone it’s currently in. The owner of an object is the only person who can ante that object.
 
 408. Command
 
@@ -1719,10 +1354,6 @@ Example: “Basic Land — Mountain” means the card is a land with the subtype
 
 506.2. During the combat phase, the active player is the attacking player; creatures that player controls may attack. During the combat phase of a two-player game, the nonactive player is the defending player; that player and planeswalkers he or she controls may be attacked.
 
-506.2a During the combat phase of a multiplayer game, there may be one or more defending players, depending on the variant being played and the options chosen for it. Unless all the attacking player’s opponents automatically become defending players during the combat phase, the attacking player chooses one of his or her opponents as a turn-based action during the beginning of combat step. (Note that the choice may be dictated by the variant being played or the options chosen for it.) That player becomes the defending player. See rule 802, “Attack Multiple Players Option,” rule 803, “Attack Left and Attack Right Options,” and rule 809, “Emperor Variant.”
-
-506.2b In the Two-Headed Giant multiplayer variant, the nonactive team is the defending team. See rule 810, “Two-Headed Giant Variant.”
-
 506.3. Only a creature can attack or block. Only a player or a planeswalker can be attacked.
 
 506.3a If an effect would put a noncreature permanent onto the battlefield attacking or blocking, the permanent does enter the battlefield but it’s never considered to be an attacking or blocking permanent.
@@ -1764,6 +1395,7 @@ Example: “Basic Land — Mountain” means the card is a land with the subtype
 507. Beginning of Combat Step
 
 507.1. First, if the game being played is a multiplayer game in which the active player’s opponents don’t all automatically become defending players, the active player chooses one of his or her opponents. That player becomes the defending player. This turn-based action doesn’t use the stack. (See rule 506.2.)
+// Opponent becomes the defending player?
 
 507.2. Second, any abilities that trigger at the beginning of combat go on the stack. (See rule 603, “Handling Triggered Abilities.”)
 
@@ -2363,12 +1995,6 @@ Example: Svogthos, the Restless Tomb, is on the battlefield. An effect that says
 613.6e A permanent receives a new timestamp at the time it turns face up or face down.
 
 613.6f A double-faced permanent receives a new timestamp at the time it transforms.
-
-613.6g A face-up plane card, phenomenon card, or scheme card receives a timestamp at the time it’s turned face up.
-
-613.6h A face-up vanguard card receives a timestamp at the beginning of the game.
-
-613.6i A conspiracy card receives a timestamp at the beginning of the game. If it’s face down, it receives a new timestamp at the time it turns face up.
 
 613.6j If two or more objects would receive a timestamp simultaneously, such as by entering a zone simultaneously or becoming attached simultaneously, the active player determines their relative timestamp order at that time.
 
@@ -4113,14 +3739,6 @@ Example: A player casts Living Wish, bringing a creature card into the game from
 
 715.2. As the subgame starts, an entirely new set of game zones is created. Each player takes all the cards in his or her main-game library, moves them to his or her subgame library, and shuffles them. No other cards in a main-game zone are moved to their corresponding subgame zone, except as specified in rules 715.2a–d. Randomly determine which player goes first. The subgame proceeds like a normal game, following all other rules in rule 103, “Starting the Game.”
 
-715.2a As a subgame of a Planechase game starts, each player moves his or her planar deck from the main-game command zone to the subgame command zone and shuffles it. (Face-up plane and phenomenon cards remain in the main-game command zone.)
-
-715.2b As a subgame of a Vanguard game starts, each player moves his or her vanguard card from the main-game command zone to the subgame command zone.
-
-715.2c As a subgame of a Commander game starts, each player moves his or her commander from the main-game command zone (if it’s there) to the subgame command zone.
-
-715.2d As a subgame of an Archenemy game starts, the archenemy moves his or her scheme deck from the main-game command zone to the subgame command zone and shuffles it. (Face-up scheme cards remain in the main-game command zone.)
-
 715.3. Because each player draws seven cards when a game begins, any player with fewer than seven cards in his or her deck will lose the subgame when state-based actions are checked during the upkeep step of the first turn, regardless of any mulligans that player takes. (See rule 704, “State-Based Actions.”)
 
 715.4. All objects in the main game and all cards outside the main game are considered outside the subgame (except those specifically brought into the subgame). All players not currently in the subgame are considered outside the subgame.
@@ -4131,14 +3749,6 @@ Example: A player casts Living Wish, bringing a creature card into the game from
 
 715.5. At the end of a subgame, each player takes all cards he or she owns that are in the subgame other than those in the subgame command zone, puts them into his or her main-game library, then shuffles them. This includes cards in the subgame’s exile zone. Except as specified in rules 715.5a–c, all other objects in the subgame cease to exist, as do the zones created for the subgame. The main game continues from the point at which it was discontinued: First, the spell or ability that created the subgame finishes resolving, even if it was created by a spell card that’s no longer on the stack. Then, if any main-game abilities triggered while the subgame was in progress due to cards being removed from the main game, those abilities are put onto the stack.
 Example: If a card was brought into the subgame either from the main game or from outside the main game, that card will be put into its owner’s main-game library when the subgame ends.
-
-715.5a At the end of a subgame of a Planechase game, each face-up plane card or phenomenon card is turned face down and put on the bottom of its owner’s planar deck. Then each player moves his or her planar deck from the subgame command zone to the main-game command zone and shuffles it.
-
-715.5b At the end of a subgame of a Vanguard game, each player moves his or her vanguard card from the subgame command zone to the main-game command zone. This is an exception to rule 311.2.
-
-715.5c At the end of a subgame of a Commander game, each player moves his or her commander from the subgame command zone (if it’s there) to the main-game command zone.
-
-715.5d At the end of a subgame of an Archenemy game, any face-up scheme cards in the subgame command zone are turned face down and put on the bottom of their owner’s scheme deck. Then the archenemy moves his or her scheme deck from the subgame command zone to the main-game command zone and shuffles it.
 
 715.6. A subgame can be created within a subgame. The existing subgame becomes the main game in relation to the new subgame.
 
@@ -4175,620 +3785,7 @@ Example: A player controls Seal of Cleansing, an enchantment that reads, “Sacr
 717.1. If a player takes an illegal action or starts to take an action but can’t legally complete it, the entire action is reversed and any payments already made are canceled. No abilities trigger and no effects apply as a result of an undone action. If the action was casting a spell, the spell returns to the zone it came from. The player may also reverse any legal mana abilities activated while making the illegal play, unless mana from them or from any triggered mana abilities they triggered was spent on another mana ability that wasn’t reversed. Players may not reverse actions that moved cards to a library, moved cards from a library to any zone other than the stack, caused a library to be shuffled, or caused cards from a library to be revealed.
 
 717.2. When reversing illegal spells and abilities, the player who had priority retains it and may take another action or pass. The player may redo the reversed action in a legal way or take any other action allowed by the rules.
-
-8. Multiplayer Rules
-
-800. General
-
-800.1. A multiplayer game is a game that begins with more than two players. This section contains additional optional rules that can be used for multiplayer play.
-
-800.2. These rules consist of a series of options that can be added to a multiplayer game and a number of variant styles of multiplayer play. A single game may use multiple options but only one variant.
-
-800.3. Many multiplayer Magic tournaments have additional rules not included here, including rules for deck construction. See the most current Magic: The Gathering Tournament Rules for more information. They can be found at WPN.Wizards.com/en/resources/rules-documents.
-
-800.4. Unlike two-player games, multiplayer games can continue after one or more players have left the game.
-
-800.4a When a player leaves the game, all objects (see rule 109) owned by that player leave the game and any effects which give that player control of any objects or players end. Then, if that player controlled any objects on the stack not represented by cards, those objects cease to exist. Then, if there are any objects still controlled by that player, those objects are exiled. This is not a state-based action. It happens as soon as the player leaves the game. If the player who left the game had priority at the time he or she left, priority passes to the next player in turn order who’s still in the game.
-Example: Alex casts Mind Control, an Aura that reads, “You control enchanted creature,” on Bianca’s Assault Griffin. If Alex leaves the game, so does Mind Control, and Assault Griffin reverts to Bianca’s control. If, instead, Bianca leaves the game, so does Assault Griffin, and Mind Control is put into Alex’s graveyard.
-Example: Alex casts Act of Treason, which reads, in part, “Gain control of target creature until end of turn,” targeting Bianca’s Runeclaw Bears. If Alex leaves the game, Act of Treason’s change-of-control effect ends and Runeclaw Bears reverts to Bianca’s control.
-Example: Alex casts Bribery, which reads, “Search target opponent’s library for a creature card and put that card onto the battlefield under your control. Then that player shuffles his or her library,” targeting Bianca. Alex puts Serra Angel onto the battlefield from Bianca’s library. If Bianca leaves the game, Serra Angel also leaves the game. If, instead, Alex leaves the game, Serra Angel is exiled.
-Example: Alex controls Genesis Chamber, which reads, “Whenever a nontoken creature enters the battlefield, if Genesis Chamber is untapped, that creature’s controller puts a 1/1 colorless Myr artifact creature token onto the battlefield.” If Alex leaves the game, all such Myr tokens that entered the battlefield under Alex’s control leave the game, and all such Myr tokens that entered the battlefield under any other player’s control remain in the game.
-
-800.4b If an object would change to the control of a player who has left the game, it doesn’t. If a token would enter the battlefield under the control of a player who has left the game, no token is created. If a player would be controlled by a player who has left the game, he or she isn’t.
-
-800.4c If an effect that gives a player still in the game control of an object ends, there is no other effect giving control of that object to another player in the game, and the object entered the battlefield under the control of a player who has left the game, the object is exiled. This is not a state-based action. It happens as soon as the control-changing effect ends.
-
-800.4d If an object that would be owned by a player who has left the game would be created in any zone, it isn’t created. If a triggered ability that would be controlled by a player who has left the game would be put onto the stack, it isn’t put on the stack.
-Example: Astral Slide is an enchantment that reads, “Whenever a player cycles a card, you may exile target creature. If you do, return that creature to the battlefield under its owner’s control at the beginning of the next end step.” During Alex’s turn, Bianca uses Astral Slide’s ability to exile Alex’s Hypnotic Specter. Before the end of that turn, Bianca leaves the game. At the beginning of the end step, the delayed triggered ability generated by Astral Slide that would return Hypnotic Specter to the battlefield triggers, but it isn’t put on the stack. Hypnotic Specter never returns to the battlefield.
-
-800.4e If combat damage would be assigned to a player who has left the game, that damage isn’t assigned.
-
-800.4f If an object requires a player who has left the game to make a choice, the controller of the object chooses another player to make that choice. If the original choice was to be made by an opponent of the controller of the object, that player chooses another opponent if possible.
-
-800.4g If an effect requires information about a specific player, the effect uses the current information about that player if he or she is still in the game; otherwise, the effect uses the last known information about that player before he or she left the game.
-
-800.4h If a player leaves the game during his or her turn, that turn continues to its completion without an active player. If the active player would receive priority, instead the next player in turn order receives priority, or the top object on the stack resolves, or the phase or step ends, whichever is appropriate.
-
-800.4i When a player leaves the game, any continuous effects with durations that last until that player’s next turn or until a specific point in that turn will last until that turn would have begun. They neither expire immediately nor last indefinitely.
-
-800.4j When a player leaves the game, objects that player owns in the ante zone do not leave the game. This is an exception to rule 800.4a. See rule 407, “Ante.”
-
-800.4k In a Planechase game, if the player designated as the planar controller would leave the game, instead the next player in turn order that wouldn’t leave the game becomes the planar controller, then the old planar controller leaves the game. See rule 309.5.
-
-800.5. In a multiplayer game, the first time a player takes a mulligan, he or she draws a new hand of as many cards as he or she had before. Subsequent hands decrease by one card as normal.
-
-800.6. In a multiplayer game other than a Two-Headed Giant game, the starting player doesn’t skip the draw step of his or her first turn. In a Two-Headed Giant game, the team who plays first skips the draw step of their first turn. See rule 103.7.
-
-800.7. In a multiplayer game not using the limited range of influence option (see rule 801), if an effect states that a player wins the game, all of that player’s opponents lose the game instead.
-
-801. Limited Range of Influence Option
-
-801.1. Limited range of influence is an option that can be applied to most multiplayer games. It’s always used in the Emperor variant (see rule 809), and it’s often used for games involving five or more players.
-
-801.2. A player’s range of influence is the maximum distance from that player, measured in player seats, that the player can affect. Players within that many seats of the player are within that player’s range of influence. Objects controlled by players within a player’s range of influence are also within that player’s range of influence. Range of influence covers spells, abilities, effects, damage dealing, attacking, making choices, and winning the game.
-
-801.2a The most commonly chosen limited ranges of influence are 1 seat and 2 seats. Different players may have different ranges of influence.
-Example: A range of influence of 1 means that only you and the players seated directly next to you are within your range of influence.
-Example: A range of influence of 2 means that you and the two players to your left and the two players to your right are within your range of influence.
-
-801.2b A player is always within his or her own range of influence.
-
-801.2c The particular players within each player’s range of influence are determined as each turn begins.
-Example: In a game with a range of influence of 1, Alex is seated to the left of Rob, and Carissa is seated to the right of Rob. Carissa is not in Alex’s range of influence. If Rob leaves the game, Carissa will enter Alex’s range of influence at the start of the next turn.
-
-801.2d An object is within a player’s range of influence if it’s controlled by that player or by another player within that many seats of that player.
-
-801.3. Creatures can attack only opponents within their controller’s range of influence or planeswalkers controlled by those opponents. If no opponents are within a player’s range of influence, creatures that player controls can’t attack.
-
-801.4. Objects and players outside a player’s range of influence can’t be the targets of spells or abilities that player controls.
-
-801.5. Some cards require players to make choices. These cards work differently when the limited range of influence option is used.
-
-801.5a If a player is asked to choose an object or player, he or she must choose one within his or her range of influence.
-Example: In a game with a range of influence of 1, Alex is seated to the left of Rob. Alex activates the ability of Cuombajj Witches, which reads, “Cuombajj Witches deals 1 damage to target creature or player and 1 damage to target creature or player of an opponent’s choice,” targeting Rob and choosing Rob as the opponent who picks the other target. Rob must choose a target that’s in both his range of influence and in the range of influence of the controller of Cuombajj Witches. He must therefore choose himself, Alex, or a creature controlled by either himself or Alex.
-
-801.5b If a player is asked to choose between one or more options (and not between one or more objects or players), he or she can choose between those options even if those options refer to objects or players outside the player’s range of influence.
-Example: Alex, who has a range of influence of 2, is seated to the left of Rob, and Carissa, who has a range of influence of 1, is seated to the right of Rob. Alex casts a spell that reads, “An opponent chooses one — You draw 2 cards; or each creature you control gets +2/+2 until end of turn,” and chooses Carissa to make that choice. Carissa can choose the mode even though Alex is out of her range.
-
-801.5c If an effect requires a choice and there’s no player who can make that choice within its controller’s range of influence, the closest appropriate player to its controller’s left makes that choice.
-Example: In an Emperor game in which all players have range of influence 1, an emperor casts Fact or Fiction, which reads, “Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.” Since no opponent is within the emperor’s range of influence, the nearest opponent to the emperor’s left separates the cards into piles.
-
-801.6. A player can’t activate the activated abilities of an object outside of his or her range of influence.
-
-801.7. A triggered ability doesn’t trigger unless its trigger event happens entirely within the range of influence of its source’s controller.
-Example: In a game in which all players have range of influence 1, Alex is seated to the left of Rob. Rob controls two Auras attached to Alex’s Runeclaw Bear: One with the trigger condition “Whenever enchanted creature becomes blocked,” and one with the trigger condition “Whenever enchanted creature becomes blocked by a creature.” Alex’s Runeclaw Bear attacks the player to Alex’s left and becomes blocked. The ability of Rob’s first Aura triggers because the entire event (Runeclaw Bear becomes blocked) happens within Rob’s range of influence. The ability of Rob’s second Aura doesn’t trigger, however, because that event includes the blocking creature, which is out of Rob’s range.
-
-801.7a If a trigger event includes an object moving out of or into a player’s range of influence, use the game state before or after the event as appropriate to determine whether the triggered ability will trigger. See rule 603.6.
-Example: Carissa and Alex are outside each other’s range of influence. Carissa controls a Runeclaw Bear owned by Alex and they each control an Extractor Demon, a creature which reads, in part, “Whenever another creature leaves the battlefield, you may have target player put the top two cards of his or her library into his or her graveyard.” The Runeclaw Bear is destroyed and is put into Alex’s graveyard. The ability of Alex’s Extractor Demon doesn’t trigger because the leaves-the-battlefield event was outside Alex’s range of influence. The ability of Carissa’s Extractor Demon does trigger, even though the creature is going to a graveyard outside her range, because the leaves-the-battlefield event was within her range.
-
-801.8. An Aura can’t enchant an object or player outside its controller’s range of influence. If an Aura is attached to an illegal object or player, the Aura is put into its owner’s graveyard as a state-based action. See rule 704.
-
-801.9. An Equipment can’t equip an object outside its controller’s range of influence, and a Fortification can’t fortify an object outside its controller’s range of influence. If an Equipment or Fortification is attached to an illegal permanent, it becomes unattached from that permanent but remains on the battlefield. This is a state-based action. See rule 704.
-
-801.10. Spells and abilities can’t affect objects or players outside their controller’s range of influence. The parts of the effect that attempt to affect an out-of-range object or player will do nothing. The rest of the effect will work normally.
-Example: In a six-player game in which each player has range of influence 1, Alex casts Pyroclasm, which reads, “Pyroclasm deals 2 damage to each creature.” Pyroclasm deals 2 damage to each creature controlled by Alex, the player to Alex’s left, and the player to Alex’s right. No other creatures are dealt damage.
-
-801.11. If a spell or ability requires information from the game, it gets only information from within its controller’s range of influence. It doesn’t see objects or events outside its controller’s range of influence.
-Example: In a six-player game where each player has range of influence 1, Alex controls Coat of Arms, which reads, “Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it.” Coat of Arms will boost Alex’s creatures based only on what creatures are controlled by Alex, the player to Alex’s left, and the player to Alex’s right. It won’t take other creatures into account.
-Example: In the same game, Rob is sitting to the right of Alex. Coat of Arms will boost Rob’s creatures based on what creatures are controlled by players within Alex’s range of influence, including the player sitting to Alex’s left, who’s out of Rob’s range of influence.
-
-801.12. The “world rule” (see rule 704.5m) applies to a permanent only if other world permanents are within its controller’s range of influence.
-
-801.13. Replacement and prevention effects watch for a particular event to happen and then completely or partially replace that event. The limited range of influence option can cause the modified event to contain instructions that can’t be carried out, in which case the player simply ignores the impossible instructions. See rule 614, “Replacement Effects,” and rule 615, “Prevention Effects.”
-
-801.13a If a replacement effect tries to cause a spell or ability to affect an object or player outside its controller’s range of influence, that portion of the event does nothing.
-Example: Alex casts Lava Axe (“Lava Axe deals 5 damage to target player”) targeting Rob. In response, Rob casts Captain’s Maneuver (“The next X damage that would be dealt to target creature or player this turn is dealt to another target creature or player instead”) with X equal to 3, targeting Carissa. Carissa isn’t in Alex’s range of influence. When Lava Axe resolves, it deals 2 damage to Rob and no damage to Carissa.
-
-801.13b If a spell or ability creates an effect that prevents damage that would be dealt by a source, it can affect only sources within the spell or ability’s controller’s range of influence. If a spell or ability creates an effect that prevents damage that would be dealt to a permanent or player, it can affect only permanents and players within the spell or ability’s controller’s range of influence. If a spell or ability creates an effect that prevents damage, but neither the source nor the would-be recipient of the damage is specified, it prevents damage only if both the source and recipient of that damage are within the spell or ability’s controller’s range of influence.
-Example: Rob is within Alex’s range of influence, but Carissa is not. Alex controls an enchantment that says, “Prevent all damage that would be dealt by creatures.” Carissa attacks Rob with a creature. The creature deals combat damage to Rob.
-Example: Rob is within Alex’s range of influence, but Carissa is not. Carissa casts Lightning Blast (“Lightning Blast deals 4 damage to target creature or player”) targeting Rob. In response, Alex casts Mending Hands (“Prevent the next 4 damage that would be dealt to target creature or player this turn”) targeting Rob. The damage to Rob is prevented.
-Example: Rob is within Alex’s range of influence, but Carissa is not. Carissa attacks Rob with a creature, and Rob blocks with a creature. Alex casts Fog (“Prevent all combat damage that would be dealt this turn.”) Carissa and Rob’s creatures deal combat damage to each other.
-
-801.14. If an effect states that a player wins the game, all of that player’s opponents within his or her range of influence lose the game instead.
-
-801.15. If the effect of a spell or ability states that the game is a draw, the game is a draw for that spell or ability’s controller and all players within his or her range of influence. They leave the game. All remaining players continue to play the game.
-
-801.16. If the game somehow enters a “loop” of mandatory actions, repeating a sequence of events with no way to stop, the game is a draw for each player who controls an object that’s involved in that loop, as well as for each player within the range of influence of any of those players. They leave the game. All remaining players continue to play the game.
-
-801.17. Effects that restart the game (see rule 714) are exempt from the limited range of influence option. All players in the game will be involved in the new game.
-
-801.18. In multiplayer Planechase games other than Grand Melee games, plane cards and phenomenon cards are exempt from the limited range of influence option. Their abilities, and the effects of those abilities, affect all applicable objects and players in the game. See rule 901, “Planechase.”
-
-802. Attack Multiple Players Option
-
-802.1. Some multiplayer games allow the active player to attack multiple other players. If this option is used, a player can also choose to attack only one player during a particular combat.
-
-802.2. As the combat phase starts, the attacking player doesn’t choose an opponent to become the defending player. Instead, all the attacking player’s opponents are defending players during the combat phase.
-
-802.2a Any rule, object, or effect that refers to a “defending player” refers to one specific defending player, not to all of the defending players. If an ability of an attacking creature refers to a defending player, or a spell or ability refers to both an attacking creature and a defending player, then unless otherwise specified, the defending player it’s referring to is the player that creature was attacking at the time it became an attacking creature that combat, or the controller of the planeswalker that creature was attacking at the time it became an attacking creature that combat. If a spell or ability could apply to multiple attacking creatures, the appropriate defending player is individually determined for each of those attacking creatures. If there are multiple defending players that could be chosen, the controller of the spell or ability chooses one.
-Example: Rob attacks Alex with Runeclaw Bear and attacks Carissa with a creature with mountainwalk. Whether the creature with mountainwalk can be blocked depends only on whether Carissa controls a Mountain.
-
-802.3. As the attacking player declares each attacking creature, he or she chooses a defending player or a planeswalker controlled by a defending player for it to attack. See rule 508, “Declare Attackers Step.”
-
-802.3a Restrictions and requirements that don’t apply to attacking a specific player are evaluated based on the entire group of attacking creatures. Restrictions and requirements that apply to attacking a specific player apply only to creatures attacking that player. The entire group of attacking creatures must still be legal. See rule 508.1.
-
-802.3b Creatures in a band can’t attack different players. See rule 702.21, “Banding.”
-
-802.4. If more than one player is being attacked or controls a planeswalker that’s being attacked, each defending player in APNAP order declares blockers as the declare blockers step begins. (See rule 101.4 and rule 509, “Declare Blockers Step.”) The first defending player declares all his or her blocks, then the second defending player, and so on.
-
-802.4a A defending player can block only with creatures he or she controls. Those creatures can block only creatures attacking that player or a planeswalker that player controls.
-
-802.4b When determining whether a defending player’s blocks are legal, ignore any creatures attacking other players and any blocking creatures controlled by other players.
-
-802.5. After blockers have been declared, if any creatures are blocking multiple creatures, each defending player in APNAP order announces the damage assignment order among the attacking creatures for each blocking creature he or she controls. See rule 510, “Combat Damage Step.”
-
-802.6. Combat damage is assigned in APNAP order. Other than that, the combat damage step proceeds just as in a two-player game. See rule 510, “Combat Damage Step.”
-
-803. Attack Left and Attack Right Options
-
-803.1. Some multiplayer games use the optional attack left or attack right rules.
-
-803.1a If the attack left option is used, a player can attack only an opponent seated immediately to his or her left. If a player’s nearest opponent to the left is more than one seat away, the player can’t attack.
-
-803.1b If the attack right option is used, a player can attack only an opponent seated immediately to his or her right. If a player’s nearest opponent to the right is more than one seat away, the player can’t attack.
-
-804. Deploy Creatures Option
-
-804.1. The Emperor variant always uses the deploy creatures option, and it can be used in other variants that allow players to compete in teams. Multiplayer formats in which players compete as individuals usually don’t use this option.
-
-804.2. Each creature has the ability “{T}: Target teammate gains control of this creature. Activate this ability only any time you could cast a sorcery.”
-
-805. Shared Team Turns Option
-
-805.1. Some multiplayer games between teams use the shared team turns option. It’s always used in the Two-Headed Giant variant (see rule 810) and the Archenemy casual variant (see rule 904). It can be used only if the members of each team are sitting in adjacent seats.
-
-805.2. Within each team, the player seated in the rightmost seat from that team’s perspective is the primary player. If the players on a team can’t agree on a choice, such as which creatures attack or what order triggered abilities are put on the stack, the primary player makes that choice.
-
-805.3. The methods described in rule 103.2 are used to determine which team will take the first turn. The team determined this way is the starting team.
-
-805.3a The process for handling mulligans is altered accordingly. First, each player on the starting team, in whatever order that team likes, declares whether or not he or she will take a mulligan. Then the players on each other team in turn order do the same. Teammates may consult while making their decisions. Then all mulligans are taken at the same time. A player may take a mulligan even after his or her teammate has decided to keep his or her opening hand. After all players have kept an opening hand, any player on the starting team whose hand contains fewer cards than that player’s starting hand size may look at the top card of his or her library. That player’s teammates may also look at that card. The player may put that card on the bottom of his or her library. This process is repeated for each other team in turn order. See rule 103.4.
-
-805.3b The process for handling cards that allow a player to begin the game with them on the battlefield is altered accordingly. First, each player on the starting team, in whatever order that team likes, may put any or all such cards onto the battlefield from his or her opening hand. Teammates may consult while making their decisions. Then each player on each other team in turn order does the same.
-
-805.4. Each team takes turns rather than each player.
-
-805.4a The team whose turn it is is the active team. Each other team is a nonactive team.
-
-805.4b Each player on a team draws a card during that team’s draw step.
-
-805.4c Each player on a team may play a land during each of that team’s turns.
-
-805.5. Teams have priority, not individual players.
-
-805.5a A player may cast a spell, activate an ability, or take a special action when his or her team has priority.
-
-805.5b If a team has priority and no player on that team wishes to do anything, that team passes. If all teams pass in succession (that is, if all teams pass without any player taking any actions in between passing), the top object on the stack resolves, then the active team receives priority. If the stack is empty when all teams pass in succession, the phase or step ends and the next one begins.
-
-805.6. The Active Player, Nonactive Player order rule (see rule 101.4) is modified if the shared team turns option is used. If multiple teams would make choices and/or take actions at the same time, first the active team makes any choices required, then each nonactive team in turn order makes any choices required. If multiple players would make choices and/or take actions at the same time, first each player on the active team makes any choices required in whatever order they like, then the players on each nonactive team in turn order do the same. Once all choices have been made, the actions happen simultaneously.
-
-805.6a If an effect instructs more than one player to draw cards in a game that’s using the shared team turns option, first each player on the active team, in whatever order that team likes, performs his or her draws, then each player on each nonactive team in turn order does the same.
-
-805.7. If multiple triggered abilities have triggered since the last time a team received priority, the members of the active team put all triggered abilities any of them controls on the stack in any order they choose, then the members of each nonactive team in turn order do the same.
-
-805.8. If an effect gives a player an extra turn or adds a phase or step to that player’s turn, that player’s team takes the extra turn, phase, or step. If an effect causes a player to skip a step, phase, or turn, that player’s team does so. If a single effect causes more than one player on the same team to add or skip the same step, phase, or turn, that team adds or skips only that step, phase, or turn. If an effect causes a player to control another player, the controller of that effect controls the affected player’s team.
-
-805.9. Any ability that refers to the “active player” refers to one specific active player, not to all of the active players. The ability’s controller chooses which one the ability refers to at the time its effect is applied.
-
-806. Free-for-All Variant
-
-806.1. In Free-for-All multiplayer games, a group of players compete as individuals against each other.
-
-806.2. Any multiplayer options used are determined before play begins. The Free-for-All variant uses the following default options.
-
-806.2a The limited range of influence option usually isn’t used in Free-for-All games. If it is, each player has the same range of influence, which is determined before play begins. See rule 801, “Limited Range of Influence Option.”
-
-806.2b Exactly one of the attack left, attack right, and attack multiple players options must be used. See rule 803, “Attack Left and Attack Right Options,” and rule 802, “Attack Multiple Players Option.”
-
-806.2c The deploy creatures option isn’t used in the Free-for-All variant.
-
-806.3. The players are randomly seated around the table.
-
-807. Grand Melee Variant
-
-807.1. The Grand Melee variant is a modification of the Free-for-All variant, in which a group of players compete against each other as individuals. Grand Melee is normally used only in games begun with ten or more players.
-
-807.2. Any multiplayer options used are decided before play begins. The Grand Melee variant uses the following default options.
-
-807.2a Each player has a range of influence of 1 (see rule 801).
-
-807.2b The attack left option is used (see rule 803).
-
-807.2c The attack multiple players and deploy creatures options aren’t used in the Grand Melee variant.
-
-807.3. The players are seated at random.
-
-807.4. The Grand Melee variant allows multiple players to take turns at the same time. Moving turn markers keep track of which players are currently taking turns. Each turn marker represents an active player’s turn.
-
-807.4a There is one turn marker for each full four players in the game.
-Example: A Grand Melee game with sixteen players has four turn markers. A game with fifteen players has three turn markers.
-
-807.4b The starting player in the game gets the first turn marker. The player four seats to that player’s left (the fifth player) takes the second turn marker, and so on until all the turn markers have been handed out. Each turn marker is assigned a number in this way. Then all players with turn markers start their turns at the same time.
-
-807.4c After a player ends his or her turn, that player passes the turn marker to the player on his or her left. If a player with a turn marker leaves the game during his or her turn, the player to his or her left takes the turn marker after that turn ends. If a player with a turn marker leaves the game before his or her turn begins, the player to his or her left takes the turn marker immediately.
-
-807.4d A player who receives a turn marker can’t begin his or her turn if any player in the three seats to his or her left has a turn marker. If this is the case, that player waits until the player four seats to his or her left takes the other turn marker.
-
-807.4e If a player leaves the game and that player leaving the game would reduce the number of turn markers in the game, the turn marker immediately to the departed player’s right is designated for removal. If more than one player leaves the game simultaneously, those players leaving the game would reduce the number of turn markers in the game, and there are multiple turn markers that could be removed, the marker with the lowest number is designated for removal. A turn marker may be designated for removal multiple times.
-
-807.4f For the purposes of determining if one or more players leaving the game would reduce the number of turn markers in the game (see rule 807.4e), disregard turn markers already designated for removal.
-
-807.4g If a player who’s taking a turn has a turn marker that’s been designated for removal, that turn marker is removed rather than being passed after that turn ends. If a player who’s not taking a turn has a turn marker that’s been designated for removal, that turn marker is removed immediately. If a removed turn marker had been designated for removal multiple times, the turn marker to its right becomes designated for removal that many times minus one.
-
-807.4h If one or more consecutively seated players leave the game, the players that were on either side of those seats don’t enter one another’s range of influence until the next turn begins.
-
-807.4i If an effect causes a player with a turn marker to take an extra turn after the current one, that player keeps the turn marker and starts his or her next turn after the current turn ends, unless another turn marker is too close on either side at that time. If a turn marker is within three seats on the player’s left, the extra turn waits to begin until the player four seats to his or her left takes the other turn marker. If a turn marker is within three seats on the player’s right, the player passes the turn marker to his or her left when the turn ends rather than keeping it, and the player will take the extra turn immediately before his or her next turn.
-
-807.4j If an effect would cause a player to take an extra turn after the current turn, but that player wouldn’t have a turn marker at the start of that turn, that player will take the extra turn immediately before his or her next turn instead.
-Example: During Alex’s turn, he casts Time Walk, which causes him to take an extra turn after this one. During the same turn, the player to Alex’s left leaves the game, which causes the number of turn markers to be reduced. After Alex’s current turn ends, his turn marker is removed. He won’t take the extra turn from Time Walk until just before his normal turn the next time he receives a turn marker.
-
-807.5. Rather than having a single stack, Grand Melee games contain multiple stacks. Each turn marker represents its own stack.
-
-807.5a A player gets priority for a particular turn marker’s stack only if the turn marker is within his or her range of influence or an object on that stack is controlled by a player within his or her range of influence.
-
-807.5b If a player has priority for multiple stacks and casts a spell, activates an ability, or a triggered ability he or she controls triggers, the player must specify which one of those stacks the spell or ability is put on. If an object on one of those stacks caused the triggered ability to trigger, the player must put it on that stack. If a resolving spell or ability on one of those stacks causes a player to cast a spell or create a copy of a spell, the new spell must be put on the same stack. If a spell or ability targets an object on one of those stacks, it must be put on the same stack as its target; it can’t target objects on multiple stacks.
-
-808. Team vs. Team Variant
-
-808.1. Team vs. Team games are played with two or more teams. Each team may have any number of players on it.
-
-808.2. Each team sits together on one side of the table. Each team decides the order in which its players sit.
-
-808.3. Any multiplayer options used are determined before play begins. The Team vs. Team variant uses the following default options.
-
-808.3a The attack multiple players option is used (see rule 802).
-
-808.3b The deploy creatures options and limited range of influence options usually aren’t used in the Team vs. Team variant.
-
-808.4. To determine which player goes first, randomly choose a team. If that team has an odd number of players, the player in its center seat goes first. If that team has an even number of players, the player to the left of its midpoint goes first. Turn order goes to the players’ left.
-
-808.5. In the Team vs. Team variant, a team’s resources (cards in hand, mana, and so on) are not shared. Teammates may review each other’s hands and discuss strategies at any time. Teammates can’t manipulate each other’s cards or permanents.
-
-809. Emperor Variant
-
-809.1. The Emperor variant involves two or more teams of three players each.
-
-809.2. Each team sits together on one side of the table. Each team decides the order in which it’s seated. Each team has one emperor, who sits in the middle of the team. The remaining players on the team are generals whose job is to protect the emperor.
-
-809.3. The Emperor variant uses the following default options.
-
-809.3a The range of influence is limited to 2 for emperors and 1 for generals. See rule 801, “Limited Range of Influence Option.”
-
-809.3b Emperor games use the deploy creatures option (see rule 804).
-
-809.3c A player can attack only an opponent seated immediately next to him or her.
-Example: At the start of an Emperor game, neither emperor can attack any opponents, even though both of the opposing generals are within their spell range.
-
-809.4. Randomly determine which emperor goes first. Turn order goes to the players’ left.
-
-809.5. The Emperor variant includes the following specifications for winning and losing the game. All other rules for ending the game also apply. (See rule 104.)
-
-809.5a A team wins the game if its emperor wins.
-
-809.5b A team loses the game if its emperor loses.
-
-809.5c The game is a draw for a team if the game is a draw for its emperor.
-
-809.6. The Emperor variant can also be played with any number of equally sized teams. If the teams have more than three players, the range of influence of each player should be adjusted.
-
-809.6a Each general’s range of influence should be the minimum number that allows one general from an opposing team to begin the game within his or her range of influence. Each emperor’s range of influence should be the minimum number that allows two generals from opposing teams to begin the game within his or her range of influence. Players should be seated such that no emperor begins the game within the range of influence of another emperor.
-Example: In an Emperor game between two teams of four players each, the player configuration (either clockwise or counterclockwise around the table) should be: Team A general 1, Team A emperor, Team A general 2, Team A general 3, Team B general 1, Team B emperor, Team B general 2, Team B general 3. Each emperor has range of influence 3. Each general 2 has range of influence 2. Each general 1 and general 3 has range of influence 1.
-
-809.7. In the Emperor variant, a team’s resources (cards in hand, mana, and so on) are not shared. Teammates may review each other’s hands and discuss strategies at any time. Teammates can’t manipulate each other’s cards or permanents.
-
-810. Two-Headed Giant Variant
-
-810.1. Two-Headed Giant games are played with two teams of two players each.
-
-810.2. The Two-Headed Giant variant uses the shared team turns option. (See rule 805.)
-
-810.3. Each team sits together on one side of the table. Each team decides the order in which its players sit.
-
-810.4. Each team has a shared life total, which starts at 30 life.
-
-810.5. With the exception of life total and poison counters, a team’s resources (cards in hand, mana, and so on) are not shared in the Two-Headed Giant variant. Teammates may review each other’s hands and discuss strategies at any time. Teammates can’t manipulate each other’s cards or permanents.
-
-810.6. The team who plays first skips the draw step of its first turn.
-
-810.7. The Two-Headed Giant variant uses different combat rules than other multiplayer variants.
-
-810.7a Each team’s creatures attack the other team as a group. During the combat phase, the active team is the attacking team and each player on the active team is an attacking player. Likewise, the nonactive team is the defending team and each player on the nonactive team is a defending player.
-
-810.7b Any one-shot effect that refers to the “defending player” refers to one specific defending player, not to both of the defending players. The controller of the effect chooses which one the spell or ability refers to at the time the effect is applied. The same is true for any one-shot effect that refers to the “attacking player.”
-     Any characteristic-defining ability that refers to the “defending player” refers to one specific defending player, not to both of the defending players. The controller of the object with the characteristic-defining ability chooses which one the ability refers to at the time the nonactive players become defending players.
-     All other cases in which the “defending player” is referred to actually refer to both defending players. If the reference involves a positive comparison (such as asking whether the defending player controls an Island) or a relative comparison (such as asking whether you control more creatures than the defending player), it gets only one answer. This answer is “yes” if either defending player in the comparison would return a “yes” answer if compared individually. If the reference involves a negative comparison (such as asking whether the defending player controls no black permanents), it also gets only one answer. This answer is “yes” if performing the analogous positive comparison would return a “no” answer. The same is true for all other cases that refer to the “attacking player.”
-
-810.7c As the declare attackers step begins, the active team declares attackers. If an effect of an object controlled by a defending player prohibits a creature from attacking him or her, that creature can’t attack the defending team. The active team has one combined attack, and that set of attacking creatures must be legal as a whole. See rule 508.1.
-Example: One player in a Two-Headed Giant game controls Teferi’s Moat, which says “As Teferi’s Moat enters the battlefield, choose a color.” and “Creatures of the chosen color without flying can’t attack you.” Creatures of the chosen color without flying can’t attack that player’s team.
-
-810.7d As the declare blockers step begins, the defending team declares blockers. Creatures controlled by the defending players can block any attacking creatures. The defending team has one combined block, and that set of blocking creatures must be legal as a whole. See rule 509.1.
-Example: If an attacking creature has forestwalk and either player on the defending team controls a Forest, the creature can’t be blocked.
-
-810.7e Once blockers have been declared, for each attacking creature that’s become blocked by multiple creatures, the active team announces the damage assignment order among the blocking creatures. Then, for each creature that’s blocking multiple creatures, the defending team announces the damage assignment order among the attacking creatures.
-
-810.7f As the combat damage step begins, the active team announces how each attacking creature will assign its combat damage. If an attacking creature would assign combat damage to the defending team, the active team chooses only one of the defending players for that creature to assign its combat damage to. Then the defending team announces how each blocking creature will assign its combat damage. See rule 510.1.
-
-810.8. The Two-Headed Giant variant uses the normal rules for winning or losing the game (see rule 104), with the following additions and specifications.
-
-810.8a Players win and lose the game only as a team, not as individuals. If either player on a team loses the game, the team loses the game. If either player on a team wins the game, the entire team wins the game. If an effect would prevent a player from winning the game, that player’s team can’t win the game. If an effect would prevent a player from losing the game, that player’s team can’t lose the game.
-Example: In a Two-Headed Giant game, a player controls Transcendence, which reads, in part, “You don’t lose the game for having 0 or less life.” If that player’s team’s life total is 0 or less, that team doesn’t lose the game.
-Example: In a Two-Headed Giant game, a player attempts to draw a card while there are no cards in that player’s library. That player loses the game, so that player’s entire team loses the game.
-Example: In a Two-Headed Giant game, a player controls Platinum Angel, which reads, “You can’t lose the game and your opponents can’t win the game.” Neither that player nor his or her teammate can lose the game while Platinum Angel is on the battlefield, and neither player on the opposing team can win the game.
-
-810.8b If a player concedes, his or her team leaves the game immediately. That team loses the game.
-
-810.8c If a team’s life total is 0 or less, the team loses the game. (This is a state-based action. See rule 704.)
-
-810.8d If a team has fifteen or more poison counters, that team loses the game. (This is a state-based action. See rule 704.)
-
-810.9. Damage, loss of life, and gaining life happen to each player individually. The result is applied to the team’s shared life total.
-Example: In a Two-Headed Giant game, a player casts Flame Rift, which reads, “Flame Rift deals 4 damage to each player.” Each team is dealt a total of 8 damage.
-
-810.9a If a cost or effect needs to know the value of an individual player’s life total, that cost or effect uses the team’s life total instead.
-Example: In a Two-Headed Giant game, a player on a team that has 17 life is targeted by Beacon of Immortality, which reads, in part, “Double target player’s life total.” That player gains 17 life, so the team winds up at 34 life.
-Example: In a Two-Headed Giant game, a player controls Test of Endurance, an enchantment that reads, “At the beginning of your upkeep, if you have 50 or more life, you win the game.” At the beginning of that player’s upkeep, the player’s team wins the game if his or her team’s life total is 50 or more.
-Example: In a Two-Headed Giant game, a player on a team that has 11 life controls Lurking Evil, an enchantment that reads, “Pay half your life, rounded up: Lurking Evil becomes a 4/4 Horror creature with flying.” To activate the ability, that player must pay 6 life. The team winds up at 5 life.
-
-810.9b If a cost or effect allows both members of a team to pay life simultaneously, the total amount of life they pay may not exceed their team’s life total. (Players can always pay 0 life.)
-
-810.9c If an effect sets a single player’s life total to a specific number, the player gains or loses the necessary amount of life to end up with the new total. The team’s life total is adjusted by the amount of life that player gained or lost.
-Example: In a Two-Headed Giant game, a player on a team that has 25 life is targeted by an ability that reads, “Target player’s life total becomes 10.” That player’s life total is considered to be 25, so that player loses 15 life. The team winds up at 10 life.
-
-810.9d If an effect would set the life total of each player on a team to a number, that team chooses one of its members. On that team, only that player is affected.
-Example: In a Two-Headed Giant game, one team has 7 life and the other team has 13 life. A player casts Repay in Kind, which reads, “Each player’s life total becomes the lowest life total among all players.” Each team chooses one of its members to be affected. The result is that the chosen player on the team that has 13 life loses 6 life, so that team’s life total winds up at 7.
-
-810.9e A player can’t exchange life totals with his or her teammate. If an effect would cause that to occur, the exchange won’t happen.
-
-810.9f If an effect instructs a player to redistribute any number of players’ life totals, that player may not affect more than one member of each team this way.
-
-810.9g If an effect says that a player can’t gain life, no player on that player’s team can gain life.
-
-810.9h If an effect says that a player can’t lose life, no player on that player’s team can lose life or pay any amount of life other than 0.
-
-810.10. Effects that cause players to get poison counters happen to each player individually. The poison counters are shared by the team.
-
-810.10a If an effect needs to know how many poison counters an individual player has, that effect uses the number of poison counters that player’s team has. If an effect needs to know how many poison counters a player’s opponents have, that effect uses the number of poison counters opposing teams have.
-
-810.10b If an effect says that a player loses poison counters, that player’s team loses that many poison counters.
-
-810.10c If an effect says that a player can’t get poison counters, no player on that player’s team can get poison counters.
-
-810.10d A player is “poisoned” if his or her team has one or more poison counters.
-
-810.11. The Two-Headed Giant variant can also be played with equally sized teams of more than two players. For each player a team has beyond the second, that team’s starting life total is increased by 15 and the number of poison counters required for the team to lose is increased by five. (These variants are called Three-Headed Giant, Four-Headed Giant, and so on.)
-
-811. Alternating Teams Variant
-
-811.1. Alternating Teams games are played with two or more teams of equal size.
-
-811.2. Any multiplayer options used are determined before play begins. The Alternating Teams variant uses the following default options.
-
-811.2a The recommended range of influence is 2. See rule 801, “Limited Range of Influence Option.”
-
-811.2b Exactly one of the attack left, attack right, and attack multiple players options must be used. See rule 803, “Attack Left and Attack Right Options,” and rule 802, “Attack Multiple Players Option.”
-
-811.2c The deploy creatures option isn’t normally used in the Alternating Teams variant.
-
-811.3. At the start of the game, players are seated so that no one is next to a teammate and each team is equally spaced out.
-Example: In an Alternating Teams game with three teams, A, B, and C, the seating around the table at the start of the game is A1, B1, C1, A2, B2, C2, A3, B3, C3, and so on.
-
-811.4. A player can’t attack opponents who aren’t seated next to him or her.
-
-811.5. In the Alternating Teams variant, a team’s resources (cards in hand, mana, and so on) are not shared. Teammates can’t review each other’s hands unless they are sitting next to each other. Teammates may discuss strategies at any time. Teammates can’t manipulate each other’s cards or permanents.
-
-
-9. Casual Variants
-
-900. General
-
-900.1. This section contains additional optional rules that can be used for certain casual game variants. It is by no means comprehensive.
-
-900.2. The casual variants detailed here use supplemental zones, rules, cards, and other game implements not used in traditional Magic games.
-
-901. Planechase
-
-901.1. In the Planechase variant, plane cards and phenomenon cards add additional abilities and randomness to the game. The Planechase variant uses all the normal rules for a Magic game, with the following additions.
-
-901.2. A Planechase game may be a two-player game or a multiplayer game. The default multiplayer setup is the Free-for-All variant with the attack multiple players option and without the limited range of influence option. See rule 806, “Free-for-All Variant.”
-
-901.3. In addition to the normal game materials, each player needs a planar deck of at least ten plane and/or phenomenon cards and the game needs one planar die. No more than two cards in a planar deck can be phenomenon cards. Each card in a planar deck must have a different English name. (See rule 309, “Planes,” and rule 310, “Phenomena.”)
-
-901.3a A planar die is a six-sided die. One face has the Planeswalker symbol {PW}. One face has the chaos symbol {CHAOS}. The other faces are blank.
-
-901.4. At the start of the game, each player shuffles his or her planar deck so that the cards are in a random order. Each deck is placed face down next to its owner’s library. All plane and phenomenon cards remain in the command zone throughout the game, both while they’re part of a planar deck and while they’re face up.
-
-901.5. Once all players have kept their opening hands and used the abilities of cards that allow them to take an action with those cards from their opening hands, the starting player moves the top card of his or her planar deck off that planar deck and turns it face up. If it’s a plane card, that card is the starting plane. If it’s a phenomenon card, the player puts that card on the bottom of his or her planar deck and repeats this process until a plane card is turned face up. (See rule 103.6.) No abilities of any card turned face up this way trigger during this process.
-
-901.6. The owner of a plane or phenomenon card is the player who started the game with it in his or her planar deck. The controller of a face-up plane or phenomenon card is the player designated as the planar controller. Normally, the planar controller is whoever the active player is. However, if the current planar controller would leave the game, instead the next player in turn order that wouldn’t leave the game becomes the planar controller, then the old planar controller leaves the game. The new planar controller retains that designation until he or she leaves the game or a different player becomes the active player, whichever comes first.
-
-901.7. Any abilities of a face-up plane card or phenomenon card in the command zone function from that zone. The card’s static abilities affect the game, its triggered abilities may trigger, and its activated abilities may be activated.
-
-901.7a A face-up plane card or phenomenon card that’s turned face down becomes a new object.
-
-901.8. Planechase games have an inherent triggered ability known as the “planeswalking ability.” The full text of this ability is “Whenever you roll {PW}, planeswalk.” (See rule 701.21, “Planeswalk.”) This ability has no source and is controlled by the player whose planar die roll caused it to trigger. This is an exception to rule 112.8.
-
-901.9. Any time the active player has priority and the stack is empty, but only during a main phase of his or her turn, that player may roll the planar die. Taking this action costs a player an amount of mana equal to the number of times he or she has previously taken this action on that turn. This is a special action and doesn’t use the stack. Note that this number won’t be equal to the number of times the player has rolled the planar die that turn if an effect has caused the player to roll the planar die that turn. (See rule 115.2f.)
-
-901.9a If the die roll is a blank face, nothing happens. The active player gets priority.
-
-901.9b If the die roll is the chaos symbol {CHAOS}, any ability of a face-up plane that starts “When you roll {CHAOS}” triggers and is put on the stack. The active player gets priority.
-
-901.9c If the die roll is the Planeswalker symbol {PW}, the “planeswalking ability” triggers and is put on the stack. The active player gets priority. (See rule 901.8.)
-
-901.10. When a player leaves the game, all objects owned by that player except abilities from phenomena leave the game. (See rule 800.4a.) If that includes a face-up plane card or phenomenon card, the planar controller turns the top card of his or her planar deck face up. This is not a state-based action. It happens as soon as the player leaves the game.
-
-901.10a If a plane leaves the game while a “planeswalking ability” is on the stack, that ability ceases to exist.
-
-901.10b Abilities from phenomena owned by a player who left the game remain on the stack controlled by the new planar controller.
-
-901.11. After the game has started, if a player moves the top card of his or her planar deck off that planar deck and turns it face up, that player has “planeswalked.” Continuous effects with durations that last until a player planeswalks end. Abilities that trigger when a player planeswalks trigger. See rule 701.21.
-
-901.11a A player may planeswalk as the result of the “planeswalking ability” (see rule 901.8), because the owner of a face-up plane card or phenomenon card leaves the game (see rule 901.10), or because a phenomenon’s triggered ability leaves the stack (see rule 704.5x). Abilities may also instruct a player to planeswalk.
-
-901.11b The plane card that’s turned face up is the plane the player planeswalks to. The plane card or phenomenon card that’s turned face down, or that leaves the game, is the plane or phenomenon the player planeswalks away from.
-
-901.11c If a player planeswalks when there is more than one face-up plane card, that player planeswalks away from all such planes.
-
-901.12. A Two-Headed Giant Planechase game uses all the rules for the Two-Headed Giant multiplayer variant and all the rules for the Planechase casual variant, with the following additions.
-
-901.12a Each player has his or her own planar deck.
-
-901.12b The planar controller is normally the primary player of the active team. However, if the current planar controller’s team would leave the game, instead the primary player of the next team in turn order that wouldn’t leave the game becomes the planar controller, then the old planar controller’s team leaves the game. The new planar controller retains that designation until he or she leaves the game or a different team becomes the active team, whichever comes first.
-
-901.12c Even though the face-up plane or phenomenon is controlled by just one player, any ability of that plane or phenomenon that refers to “you” applies to both members of the planar controller’s team.
-
-901.12d Since each member of the active team is an active player, each of them may roll the planar die. Each player’s cost to roll the planar die is based on the number of times that particular player has already rolled the planar die that turn.
-
-901.13. In multiplayer formats other than Grand Melee, plane cards and phenomenon cards are exempt from the limited range of influence option. Their abilities, and the effects of those abilities, affect all applicable objects and players in the game. (See rule 801, “Limited Range of Influence Option.”)
-
-901.14. In Grand Melee Planechase games, multiple plane cards or phenomenon cards may be face up at the same time.
-
-901.14a Before the first turn of the game of the game, each player who will start the game with a turn marker sets a starting plane (see rule 901.5). Each of them is a planar controller.
-
-901.14b If a player would leave the game and that player leaving the game would reduce the number of turn markers in the game, that player first ceases to be a planar controller (but no other player becomes a planar controller), then that player leaves the game. Each face-up plane card or phenomenon card that player controlled is put on the bottom of its owner’s planar deck. No player is considered to have planeswalked.
-
-901.15. Single Planar Deck Option
-
-901.15a As an alternative option, a Planechase game may be played with just a single communal planar deck. In that case, the number of cards in the planar deck must be at least forty or at least ten times the number of players in the game, whichever is smaller. The planar deck can’t contain more phenomenon cards than twice the number of players in the game. Each card in the planar deck must have a different English name.
-
-901.15b In a Planechase game using the single planar deck option, the planar controller is considered to be the owner of all cards in the planar deck.
-
-901.15c If any rule or ability refers to a player’s planar deck, the communal planar deck is used.
-
-902. Vanguard
-
-902.1. In the Vanguard variant, a vanguard card allows each player to play the role of a famous character. Each player will have one face-up vanguard card whose abilities and other characteristics affect the game. The Vanguard variant uses all the normal rules for a Magic game, with the following additions.
-
-902.2. A Vanguard game may be a two-player game or a multiplayer game.
-
-902.3. In addition to the normal game materials, each player needs a vanguard card. Each vanguard card is placed face up next to its owner’s library before the game begins. All vanguard cards remain in the command zone throughout the game.
-
-902.4. Each player’s starting life total is 20 plus or minus the life modifier of his or her vanguard card.
-Example: The life modifier of a player’s vanguard card is -3. That player’s starting life total is 17.
-
-902.5. Each player’s starting hand size is seven cards, as modified by the hand modifier of his or her vanguard card.
-
-902.5a If a player takes a mulligan in a Vanguard game, just like in a normal game, that player shuffles his or her hand back into his or her library, then draws a new hand of one fewer cards than he or she had before. (In a multiplayer game, a player’s first mulligan is for the same number of cards as he or she had before.) See rule 103.4.
-Example: The hand modifier of a player’s vanguard card is +2. That player starts the game with a hand of 9 cards. If the player takes a mulligan, he or she draws a new hand of 8 cards. The next mulligan is for 7 cards, and so on.
-
-902.5b A player’s maximum hand size is seven, as modified by the hand modifier of his or her vanguard card.
-Example: The hand modifier of a player’s vanguard card is -1. That player’s maximum hand size is six. If that player has more than six cards in his or her hand as the cleanup step begins, he or she will discard all but six of them.
-
-902.6. The owner of a vanguard card is the player who started the game with it in the command zone. The controller of a face-up vanguard card is its owner.
-
-902.7. Any abilities of a face-up vanguard card in the command zone function from that zone. The card’s static abilities affect the game, its triggered abilities may trigger, and its activated abilities may be activated.
-
-903. Commander
-
-903.1. In the Commander variant, each deck is led by a legendary creature designated as that deck’s commander. The Commander variant was created and popularized by fans; an independent rules committee maintains additional resources at MTGCommander.net. The Commander variant uses all the normal rules for a Magic game, with the following additions.
-
-903.2. A Commander game may be a two-player game or a multiplayer game. The default multiplayer setup is the Free-for-All variant with the attack multiple players option and without the limited range of influence option. See rule 806, “Free-for-All Variant.”
-
-903.3. Each deck has a legendary creature card designated as its commander. This designation is not a characteristic of the object represented by the card; rather, it is an attribute of the card itself. The card retains this designation even when it changes zones.
-Example: A commander that’s been turned face down (due to Ixidron’s effect, for example) is still a commander. A commander that’s copying another card (due to Cytoshape’s effect, for example) is still a commander. A permanent that’s copying a commander (such as a Body Double, for example, copying a commander in a player’s graveyard) is not a commander.
-
-903.3a Some planeswalker cards have an ability that states the card can be your commander. This ability modifies the rules for deck construction, and it functions before the game begins. See also rule 112.6m.
-
-903.4. The Commander variant uses color identity to determine what cards can be in a deck with a certain commander. The color identity of a card is the color or colors of any mana symbols in that card’s mana cost or rules text, plus any colors defined by its characteristic-defining abilities (see rule 604.3) or color indicator (see rule 204).
-Example: Bosh, Iron Golem is a legendary artifact creature with mana cost {8} and the ability “{3}{R}, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact's converted mana cost to target creature or player.” Bosh’s color identity is red.
-
-903.4a Color identity is established before the game begins.
-
-903.4b Reminder text is ignored when determining a card’s color identity. See rule 207.2.
-
-903.4c The back face of a double-faced card (see rule 711) is included when determining a card’s color identity. This is an exception to rule 711.4a.
-Example: Civilized Scholar is the front face of a double-faced card with mana cost {2}{U}. Homicidal Brute is the back face of that double-faced card and has a red color indicator. The card’s color identity is blue and red.
-
-903.5. Each Commander deck is subject to the following deck construction rules.
-
-903.5a Each deck must contain exactly 100 cards, including its commander.
-
-903.5b Other than basic lands, each card in a Commander deck must have a different English name.
-
-903.5c A card can be included in a Commander deck only if every color in its color identity is also found in the color identity of the deck’s commander.
-Example: Wort, the Raidmother is a legendary creature with mana cost {4}{R/G}{R/G}. Wort’s color identity is red and green. Each card in a Wort Commander deck must be only red, only green, both red and green, or have no color. Each mana symbol in the mana cost or rules text of a card in this deck must be only red, only green, both red and green, or have no color.
-
-903.5d A card with a basic land type may be included in a Commander deck only if each color of mana it could produce is included in the commander’s color identity.
-Example: Wort, the Raidmother’s color identity is red and green. A Wort Commander deck may include land cards with the basic land types Mountain and/or Forest. It can’t include any land cards with the basic land types Plains, Island, or Swamp.
-
-903.6. At the start of the game, each player puts his or her commander from his or her deck face up into the command zone. Then each player shuffles the remaining 99 cards of his or her deck so that the cards are in a random order. Those cards become the player’s library.
-
-903.7. Once the starting player has been determined, each player sets his or her life total to 40 and draws a hand of seven cards.
-
-903.8. A player may cast a commander he or she owns from the command zone. A commander cast from the command zone costs an additional {2} for each previous time the player casting it has cast it from the command zone that game.
-
-903.9. If a commander would be exiled from anywhere or put into its owner’s hand, graveyard, or library from anywhere, its owner may put it into the command zone instead. This replacement effect may apply more than once to the same event. This is an exception to rule 614.5.
-
-903.10. If a card is put into the exile zone face down from anywhere, and a player is allowed to look at that card in exile, the player must immediately do so. If it’s a commander owned by another player, the player that looked at it turns it face up and puts it into the command zone.
-
-903.11. The Commander variant includes the following specification for winning and losing the game. All other rules for ending the game also apply. (See rule 104.)
-
-903.11a A player that’s been dealt 21 or more combat damage by the same commander over the course of the game loses the game. (This is a state-based action. See rule 704.)
-
-904. Archenemy
-
-904.1. In the Archenemy variant, a team of players faces off against a single opponent strengthened with powerful scheme cards. The Archenemy variant uses all the normal rules for a Magic game, with the following additions.
-
-904.2. The default setup for an Archenemy game is the Team vs. Team multiplayer variant (see rule 808) involving exactly two teams. The attack multiple players option (see rule 802) and the shared team turns option (see rule 805) are used; no other multiplayer options are used.
-
-904.2a One of the teams consists of exactly one player, who is designated the archenemy.
-
-904.2b The other team consists of any number of players.
-
-904.3. In addition to the normal game materials, the archenemy needs a scheme deck of at least twenty scheme cards. A scheme deck may contain no more than two of any card with a particular English name. (See rule 312, “Schemes.”)
-
-904.4. At the start of the game, the archenemy shuffles his or her scheme deck so that the cards are in a random order. The scheme deck is placed face down next to the archenemy’s library. All scheme cards remain in the command zone throughout the game, both while they’re part of a scheme deck and while they’re face up.
-
-904.5. The archenemy’s starting life total is 40. Each other player’s starting life total is 20.
-
-904.6. Rather than a randomly determined player, the archenemy takes the first turn of the game.
-
-904.7. The owner of a scheme card is the player who started the game with it in the command zone. The controller of a face-up scheme card is its owner.
-
-904.8. Any abilities of a face-up scheme card in the command zone function from that zone. The card’s static abilities affect the game, its triggered abilities may trigger, and its activated abilities may be activated.
-
-904.9. Immediately after the archenemy’s precombat main phase begins during each of his or her turns, that player moves the top card of his or her scheme deck off that scheme deck and turns it face up. This is called “setting that scheme in motion.” (See rule 701.22.) This turn-based action doesn’t use the stack. Abilities of that scheme card that trigger “When you set this scheme in motion” trigger.
-
-904.10. If a non-ongoing scheme card is face up in the command zone, and it isn’t the source of a triggered ability that has triggered but not yet left the stack, that scheme card is turned face down and put on the bottom of its owner’s scheme deck the next time a player would receive priority. (This is a state-based action. See rule 704.)
-
-904.11. Once an ongoing scheme card is set in motion, it remains face up in the command zone until an ability causes it to be abandoned (see rule 701.23).
-
-904.12. Supervillain Rumble Option
-
-904.12a As an alternative option, players may play a Free-for-All game in which each player has his or her own scheme deck. The attack multiple players option (see rule 802) is used; no other multiplayer options are used.
-
-904.12b Each player in this game is an archenemy.
-
-904.12c As in a normal Free-for-All game, the starting player is randomly determined. All other rules that apply to the archenemy in an Archenemy game apply to each player in a Supervillain Rumble game.
-
-905. Conspiracy Draft
-
-905.1. The Conspiracy Draft variant consists of a draft (a style of limited play where players choose cards from sealed booster packs to build their decks) followed by a multiplayer game. The Conspiracy Draft variant uses Magic: The Gathering—Conspiracy™ booster packs by default.
-
-905.1a A draft typically consists of three draft rounds. In each draft round, each player opens a booster pack, drafts one card by placing that card in a face-down pile in front of the player, then passes the remaining cards to the next player. Each player then drafts a card from the booster pack passed to him or her and passes the remaining cards. This procedure continues until all cards in that draft round have been drafted.
-
-905.1b In the first and third draft rounds, booster packs are passed to each player’s left. In the second draft round, booster packs are passed to each player’s right.
-
-905.1c During the draft, a player can look only at cards in the booster pack he or she is currently drafting from, cards he or she has already drafted, cards that are currently revealed as described in rule 905.2b, and cards that have been drafted face up as described in rule 905.2c. A player may not reveal drafted cards to other players unless an ability instructs him or her to.
-
-905.1d After the draft and all actions that may be taken during or after the draft, all the cards a player has drafted become that player’s card pool. The player builds his or her deck from only these cards and any number of basic land cards. See rules 100.2b and 100.4b.
-
-905.2. Several cards in the Magic: The Gathering—Conspiracy set have abilities that function during the draft.
-
-905.2a During a draft, there is no active player or system of priority. If multiple players wish to take an action at the same time during the draft and can’t agree on an order, those actions are taken in a random order.
-
-905.2b Some cards instruct players to reveal them as they’re drafted and then note some information, such as a number or color. This information can be referred to by other abilities during the game. Any player can look at this information at any time during the draft or game. After the information is noted, the drafted card is turned face down and added to the player’s drafted cards pile.
-
-905.2c Some cards instruct players to draft them face up. Each such card remains face up until the draft is complete, an effect instructs the person who drafted it to turn it face down, or the card leaves that player’s drafted cards pile. While the card is face up, all players may look at it.
-
-905.3. A Conspiracy Draft game is a multiplayer game. The default multiplayer setup is the Free-for-All variant with the attack multiple players option and without the limited range of influence option. See rule 806, “Free-for-All Variant.”
-
-905.4. At the start of the game, before decks are shuffled, each player may put any number of conspiracy cards from his or her sideboard into the command zone.
-
-905.4a Conspiracy cards with hidden agenda are put into the command zone face down. Any time a player has priority, he or she may turn a face-down conspiracy card he or she controls face up. See rule 702.105, “Hidden Agenda.”
-
-905.5. The owner of a conspiracy card is the player who put it into the command zone at the start of the game. The controller of a conspiracy card is its owner.
-
-905.6. Once the starting player has been determined, each player sets his or her life total to 20 and draws a hand of seven cards.
+he limited range of influence option. See rule 806, “Free-for-All Variant.”
 
 Glossary
 
